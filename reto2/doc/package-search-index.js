@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"agenciaViajes"},{"l":"agenciaViajes.bbdd.config"},{"l":"agenciaViajes.bbdd.controlador"},{"l":"agenciaViajes.bbdd.entidad"},{"l":"agenciaViajes.bbdd.gestores"},{"l":"agenciaViajes.vista.paneles"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();

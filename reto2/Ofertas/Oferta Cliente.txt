@@ -1,0 +1,6 @@
+ID Viaje: 42
+Agencia: agencia2
+Nombre Viaje: paris
+Eventos: paseo, paseo eifel, suite
+Precio Total: 330.0
+
